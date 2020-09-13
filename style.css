@@ -1,5 +1,13 @@
+body {
+  background: black;
+}
+
+.row {
+  height: 100px;
+}
+
 .fa-linkedin {
-  color: #007bb5
+  color: #007bb5;
 }
 
 .fa-twitter {
@@ -12,8 +20,4 @@
 
 .fa-envelope {
   color: #d44638;
-}
-
-.row {
-  height: 100px;
 }
